@@ -1,0 +1,6 @@
+id,title,description,category,priority,status,created_at,due_date,updated_at
+TSK-1001,Design Backend Architecture,Draft MVC design pattern and database schemas,Architecture,High,In Progress,2026-08-01 10:00:00,2026-08-10 23:59:59,2026-08-05 14:30:00
+TSK-1002,Implement Security Authentication,Integrate PBKDF2 password hashing and salt,Security,High,Completed,2026-08-02 11:15:00,2026-08-04 23:59:59,2026-08-04 18:00:00
+TSK-1003,Create Terminal View Dashboard,Build Rich CLI dashboard with progress bars and badges,Frontend,Medium,In Progress,2026-08-03 09:30:00,2026-08-08 23:59:59,2026-08-05 16:00:00
+TSK-1004,Write Unit Tests,Write pytest test suite for models and service layer,Testing,High,Pending,2026-08-04 15:45:00,2026-08-06 23:59:59,2026-08-04 15:45:00
+TSK-1005,Prepare Dockerfile,Write production multi-stage Docker container build file,DevOps,Low,Pending,2026-08-05 08:00:00,2026-08-12 23:59:59,2026-08-05 08:00:00

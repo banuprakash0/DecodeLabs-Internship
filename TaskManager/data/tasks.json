@@ -1,0 +1,46 @@
+[
+  {
+    "id": "TSK-A1B2C3",
+    "title": "Design Enterprise Task Manager Architecture",
+    "description": "Architect clean MVC layer separation with JSON storage engine and terminal view",
+    "category": "Architecture",
+    "priority": "High",
+    "status": "Completed",
+    "created_at": "2026-08-01 10:00:00",
+    "due_date": "2026-08-04 23:59:59",
+    "updated_at": "2026-08-04 18:20:00"
+  },
+  {
+    "id": "TSK-D4E5F6",
+    "title": "Implement Rich Terminal UI Dashboard",
+    "description": "Develop dark theme CLI components including panels, task tables, and metrics",
+    "category": "Frontend",
+    "priority": "High",
+    "status": "In Progress",
+    "created_at": "2026-08-02 14:00:00",
+    "due_date": "2026-08-06 23:59:59",
+    "updated_at": "2026-08-05 12:10:00"
+  },
+  {
+    "id": "TSK-789XYZ",
+    "title": "Setup Automated Pytest Suite",
+    "description": "Write comprehensive unit tests for storage resilience, model validation, and CRUD operations",
+    "category": "Testing",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_at": "2026-08-03 11:30:00",
+    "due_date": "2026-08-07 23:59:59",
+    "updated_at": "2026-08-03 11:30:00"
+  },
+  {
+    "id": "TSK-990ABC",
+    "title": "Write Enterprise System Documentation",
+    "description": "Produce README, UML Class Diagrams, Sequence Diagrams, Roadmap, and Deployment Guides",
+    "category": "Documentation",
+    "priority": "Low",
+    "status": "Pending",
+    "created_at": "2026-08-04 16:45:00",
+    "due_date": "2026-08-09 23:59:59",
+    "updated_at": "2026-08-04 16:45:00"
+  }
+]
